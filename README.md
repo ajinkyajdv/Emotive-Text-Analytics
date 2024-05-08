@@ -8,6 +8,7 @@ The project also features a Streamlit application that allows users to input sen
 
 # Streamlit:
 
+![image](https://github.com/ajinkyajdv/Emotive-Text-Analytics/assets/145322781/a6dde108-adc1-494f-99d5-a969b0dcf592)
 
 ![image](https://github.com/ajinkyajdv/Emotive-Text-Analytics/assets/145322781/7baf6f47-3887-4c57-a601-f7dde44cc570)
 
